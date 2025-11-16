@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\html\\csharp\\PracticeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|c:\\html\\csharp\\practiceproject\\practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|c:\\html\\csharp\\practiceproject\\practiceproject\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|c:\\html\\csharp\\practiceproject\\practiceproject\\si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C85A9B-0C48-481E-9388-26B688B1339B}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\si.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SI.cs",
+              "DocumentMoniker": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\SI.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\SI.cs",
+              "ToolTip": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\SI.cs",
+              "RelativeToolTip": "PracticeProject\\SI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:45:02.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\Operation.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Operation.cs",
+              "ToolTip": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\Operation.cs",
+              "RelativeToolTip": "PracticeProject\\Operation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:22:48.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProject\\Program.cs",
+              "ToolTip": "C:\\html\\csharp\\PracticeProject\\PracticeProject\\Program.cs",
+              "RelativeToolTip": "PracticeProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:29:08.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

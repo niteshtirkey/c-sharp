@@ -1,0 +1,14 @@
+C:\html\csharp\PracticeProject\PracticeProject\bin\Debug\net9.0\PracticeProject.exe
+C:\html\csharp\PracticeProject\PracticeProject\bin\Debug\net9.0\PracticeProject.deps.json
+C:\html\csharp\PracticeProject\PracticeProject\bin\Debug\net9.0\PracticeProject.runtimeconfig.json
+C:\html\csharp\PracticeProject\PracticeProject\bin\Debug\net9.0\PracticeProject.dll
+C:\html\csharp\PracticeProject\PracticeProject\bin\Debug\net9.0\PracticeProject.pdb
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.AssemblyInfoInputs.cache
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.AssemblyInfo.cs
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.csproj.CoreCompileInputs.cache
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.dll
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\refint\PracticeProject.dll
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.pdb
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\PracticeProject.genruntimeconfig.cache
+C:\html\csharp\PracticeProject\PracticeProject\obj\Debug\net9.0\ref\PracticeProject.dll
