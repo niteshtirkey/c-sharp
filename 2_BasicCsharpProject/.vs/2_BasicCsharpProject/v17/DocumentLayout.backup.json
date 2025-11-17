@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\html\\c-sharp\\2_BasicCsharpProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|c:\\html\\c-sharp\\2_basiccsharpproject\\swapprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|solutionrelative:swapprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|c:\\html\\c-sharp\\2_basiccsharpproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|c:\\html\\c-sharp\\2_basiccsharpproject\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DB4D51-A1FB-42DE-9CBC-CBCB259D9C04}|2_BasicCsharpProject.csproj|solutionrelative:a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwapProgram.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\2_BasicCsharpProject\\SwapProgram.cs",
+              "RelativeDocumentMoniker": "SwapProgram.cs",
+              "ToolTip": "C:\\html\\c-sharp\\2_BasicCsharpProject\\SwapProgram.cs",
+              "RelativeToolTip": "SwapProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:54:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\2_BasicCsharpProject\\A.cs",
+              "RelativeDocumentMoniker": "A.cs",
+              "ToolTip": "C:\\html\\c-sharp\\2_BasicCsharpProject\\A.cs",
+              "RelativeToolTip": "A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T13:23:14.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\2_BasicCsharpProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\html\\c-sharp\\2_BasicCsharpProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T12:36:19.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\html\c-sharp\2_BasicCsharpProject\bin\Debug\net9.0\2_BasicCsharpProject.exe
+C:\html\c-sharp\2_BasicCsharpProject\bin\Debug\net9.0\2_BasicCsharpProject.deps.json
+C:\html\c-sharp\2_BasicCsharpProject\bin\Debug\net9.0\2_BasicCsharpProject.runtimeconfig.json
+C:\html\c-sharp\2_BasicCsharpProject\bin\Debug\net9.0\2_BasicCsharpProject.dll
+C:\html\c-sharp\2_BasicCsharpProject\bin\Debug\net9.0\2_BasicCsharpProject.pdb
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.AssemblyInfoInputs.cache
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.AssemblyInfo.cs
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.csproj.CoreCompileInputs.cache
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.sourcelink.json
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.dll
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\refint\2_BasicCsharpProject.dll
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.pdb
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\2_BasicCsharpProject.genruntimeconfig.cache
+C:\html\c-sharp\2_BasicCsharpProject\obj\Debug\net9.0\ref\2_BasicCsharpProject.dll
