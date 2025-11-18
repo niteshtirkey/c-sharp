@@ -22,6 +22,14 @@ namespace _2_BasicCsharpProject {
             Console.WriteLine(companyName);
 
             SwapProgram.Swap();
+
+            BoxingExample example = new BoxingExample();
+            example.BoxingFun();
+            example.UnBoxingFun2();
+
+            DataType dataType = new DataType();
+            dataType.PDataTypeFun();
+            dataType.DDataTypeFun();
         }
     }
 }
