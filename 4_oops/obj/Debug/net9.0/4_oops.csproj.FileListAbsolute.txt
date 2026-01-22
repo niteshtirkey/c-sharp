@@ -1,0 +1,15 @@
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.AssemblyInfoInputs.cache
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.AssemblyInfo.cs
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.csproj.CoreCompileInputs.cache
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.sourcelink.json
+C:\html\c-sharp\4_oops\bin\Debug\net9.0\4_oops.exe
+C:\html\c-sharp\4_oops\bin\Debug\net9.0\4_oops.deps.json
+C:\html\c-sharp\4_oops\bin\Debug\net9.0\4_oops.runtimeconfig.json
+C:\html\c-sharp\4_oops\bin\Debug\net9.0\4_oops.dll
+C:\html\c-sharp\4_oops\bin\Debug\net9.0\4_oops.pdb
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.dll
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\refint\4_oops.dll
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.pdb
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\4_oops.genruntimeconfig.cache
+C:\html\c-sharp\4_oops\obj\Debug\net9.0\ref\4_oops.dll

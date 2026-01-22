@@ -6,7 +6,7 @@
     <RootNamespace>_3_Date_Time</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_3_Date_Time.MarkSheetExample</StartupObject>
+    <StartupObject>_3_Date_Time.Arr</StartupObject>
   </PropertyGroup>
 
 </Project>

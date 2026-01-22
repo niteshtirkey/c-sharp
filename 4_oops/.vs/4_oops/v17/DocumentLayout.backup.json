@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\html\\c-sharp\\4_oops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|c:\\html\\c-sharp\\4_oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|c:\\html\\c-sharp\\4_oops\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|c:\\html\\c-sharp\\4_oops\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|c:\\html\\c-sharp\\4_oops\\instanceex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|solutionrelative:instanceex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|c:\\html\\c-sharp\\4_oops\\staticexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761789CC-0E4F-425F-AF41-AB360880F9B1}|4_oops.csproj|solutionrelative:staticexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\4_oops\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\html\\c-sharp\\4_oops\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:42:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstanceEx.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\4_oops\\InstanceEx.cs",
+              "RelativeDocumentMoniker": "InstanceEx.cs",
+              "ToolTip": "C:\\html\\c-sharp\\4_oops\\InstanceEx.cs",
+              "RelativeToolTip": "InstanceEx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:35:18.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticExample.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\4_oops\\StaticExample.cs",
+              "RelativeDocumentMoniker": "StaticExample.cs",
+              "ToolTip": "C:\\html\\c-sharp\\4_oops\\StaticExample.cs",
+              "RelativeToolTip": "StaticExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:24:59.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\4_oops\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\html\\c-sharp\\4_oops\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:58:07.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\4_oops\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\html\\c-sharp\\4_oops\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T11:57:39.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

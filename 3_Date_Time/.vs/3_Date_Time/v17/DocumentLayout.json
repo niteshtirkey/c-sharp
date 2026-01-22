@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\html\\c-sharp\\3_Date_Time\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\marksheetexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:marksheetexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\sumdatedigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:sumdatedigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\datediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:datediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|c:\\html\\c-sharp\\3_date_time\\arr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F855643B-AFB9-4B41-AD43-42B1E85CDA5C}|3_Date_Time.csproj|solutionrelative:arr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MarkSheetExample.cs",
-              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\MarkSheetExample.cs",
-              "RelativeDocumentMoniker": "MarkSheetExample.cs",
-              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\MarkSheetExample.cs",
-              "RelativeToolTip": "MarkSheetExample.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAQwBcAAAAgAAAAAAAAAA==",
+              "Title": "Arr.cs",
+              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\Arr.cs",
+              "RelativeDocumentMoniker": "Arr.cs",
+              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\Arr.cs",
+              "RelativeToolTip": "Arr.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowCsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:07:20.243Z",
+              "WhenOpened": "2025-11-27T02:50:10.896Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Condition.cs",
-              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\Condition.cs",
-              "RelativeDocumentMoniker": "Condition.cs",
-              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\Condition.cs",
-              "RelativeToolTip": "Condition.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:31:20.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SumDateDigit.cs",
-              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\SumDateDigit.cs",
-              "RelativeDocumentMoniker": "SumDateDigit.cs",
-              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\SumDateDigit.cs",
-              "RelativeToolTip": "SumDateDigit.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T03:33:21.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DateDiff.cs",
-              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\DateDiff.cs",
-              "RelativeDocumentMoniker": "DateDiff.cs",
-              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\DateDiff.cs",
-              "RelativeToolTip": "DateDiff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T14:44:58.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\html\\c-sharp\\3_Date_Time\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\html\\c-sharp\\3_Date_Time\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T14:43:38.041Z"
             }
           ]
         }

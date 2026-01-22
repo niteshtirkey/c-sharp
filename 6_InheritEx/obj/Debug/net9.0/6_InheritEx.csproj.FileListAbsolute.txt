@@ -1,0 +1,15 @@
+C:\html\c-sharp\6_InheritEx\bin\Debug\net9.0\6_InheritEx.exe
+C:\html\c-sharp\6_InheritEx\bin\Debug\net9.0\6_InheritEx.deps.json
+C:\html\c-sharp\6_InheritEx\bin\Debug\net9.0\6_InheritEx.runtimeconfig.json
+C:\html\c-sharp\6_InheritEx\bin\Debug\net9.0\6_InheritEx.dll
+C:\html\c-sharp\6_InheritEx\bin\Debug\net9.0\6_InheritEx.pdb
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.AssemblyInfoInputs.cache
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.AssemblyInfo.cs
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.csproj.CoreCompileInputs.cache
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.sourcelink.json
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.dll
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\refint\6_InheritEx.dll
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.pdb
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\6_InheritEx.genruntimeconfig.cache
+C:\html\c-sharp\6_InheritEx\obj\Debug\net9.0\ref\6_InheritEx.dll

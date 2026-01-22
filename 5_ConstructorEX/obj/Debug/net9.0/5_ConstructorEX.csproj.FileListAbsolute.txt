@@ -1,0 +1,15 @@
+C:\html\c-sharp\5_ConstructorEX\bin\Debug\net9.0\5_ConstructorEX.exe
+C:\html\c-sharp\5_ConstructorEX\bin\Debug\net9.0\5_ConstructorEX.deps.json
+C:\html\c-sharp\5_ConstructorEX\bin\Debug\net9.0\5_ConstructorEX.runtimeconfig.json
+C:\html\c-sharp\5_ConstructorEX\bin\Debug\net9.0\5_ConstructorEX.dll
+C:\html\c-sharp\5_ConstructorEX\bin\Debug\net9.0\5_ConstructorEX.pdb
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.AssemblyInfoInputs.cache
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.AssemblyInfo.cs
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.csproj.CoreCompileInputs.cache
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.sourcelink.json
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.dll
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\refint\5_ConstructorEX.dll
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.pdb
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\5_ConstructorEX.genruntimeconfig.cache
+C:\html\c-sharp\5_ConstructorEX\obj\Debug\net9.0\ref\5_ConstructorEX.dll
